@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T19:21:44.435769+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2025-10-27T20:47:35.613376+08:00",
+  "total_titles_processed": 1611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 72,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -98,6 +98,18 @@
           "time_info": "[01时17分 ~ 07时21分]"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 20时47分]"
+        },
+        {
           "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
           "url": "https://news.ifeng.com/c/8nn0csPCPJl",
           "source": "凤凰网",
@@ -107,18 +119,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时37分 ~ 16时32分]"
-        },
-        {
-          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
-          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 19时21分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
@@ -145,6 +145,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 06时20分]"
+        },
+        {
+          "title": "特朗普访问日本",
+          "url": "https://www.douyin.com/hot/2285103",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。",
@@ -177,7 +188,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -302,6 +313,18 @@
           "time_info": "[00时26分 ~ 01时18分]"
         },
         {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时47分]"
+        },
+        {
           "title": "特朗普2.0亚洲“首秀”：五天三国",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE2.0%E4%BA%9A%E6%B4%B2%E2%80%9C%E9%A6%96%E7%A7%80%E2%80%9D%EF%BC%9A%E4%BA%94%E5%A4%A9%E4%B8%89%E5%9B%BD",
           "source": "百度热搜",
@@ -325,18 +348,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时37分 ~ 15时26分]"
-        },
-        {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时21分]"
         },
         {
           "title": "美国总统特朗普：也许到今年年底，我们会就美联储做出相关决定。",
@@ -459,6 +470,17 @@
           "time_info": "[09时50分 ~ 11时24分]"
         },
         {
+          "title": "特朗普首见高市早苗会聊什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A6%96%E8%A7%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BC%9A%E8%81%8A%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "美国总统特朗普：普京应该结束战争而不是试验导弹。",
           "url": "https://flash.jin10.com/detail/20251027144820744800",
           "source": "金十数据",
@@ -542,7 +564,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -564,9 +586,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "特朗普：预计将在今年年底前就美联储主席做出决定",
@@ -624,6 +657,17 @@
           "time_info": "12时32分"
         },
         {
+          "title": "评论员：特朗普在马来西亚双喜临门",
+          "url": "https://www.toutiao.com/trending/7565834902130658870/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "巴西总统卢拉：特朗普可以提出任何问题，摆上桌面，我都会讨论。",
           "url": "https://flash.jin10.com/detail/20251027113517357800",
           "source": "金十数据",
@@ -644,6 +688,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "日本天皇亲自在门外接送特朗普",
+          "url": "https://www.toutiao.com/trending/7565133400080797190/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "美国总统特朗普：期待与新任日本首相会面。",
@@ -685,7 +740,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -729,7 +784,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -814,7 +869,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -843,6 +898,18 @@
           "time_info": "[06时20分 ~ 07时21分]"
         },
         {
+          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
+          "url": "https://www.cls.cn/detail/2182013",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时47分]"
+        },
+        {
           "title": "美股盘前，科技股、中概股普涨",
           "url": "https://wallstreetcn.com/livenews/2994104",
           "source": "华尔街见闻-快讯",
@@ -853,18 +920,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时32分 ~ 17时29分]"
-        },
-        {
-          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
-          "url": "https://www.cls.cn/detail/2182013",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时21分]"
         },
         {
           "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
@@ -884,7 +939,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         }
@@ -991,8 +1046,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 20时47分]"
         },
         {
           "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
@@ -1012,7 +1067,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         }
