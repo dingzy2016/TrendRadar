@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-26T21:37:09.768787+08:00",
-  "total_titles_processed": 1924,
+  "generated_at": "2025-11-26T22:25:01.974857+08:00",
+  "total_titles_processed": 2006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
+        {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时31分 ~ 22时25分]"
+        },
         {
           "title": "日媒：特朗普要求与高市早苗通话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
@@ -59,18 +71,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[09时45分 ~ 19时20分]"
-        },
-        {
-          "title": "中方是否请特朗普向高市传口信？外交部回应",
-          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时31分 ~ 21时37分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
@@ -254,6 +254,17 @@
           "time_info": "[17时26分 ~ 17时27分]"
         },
         {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E5%90%8E+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%AA%E6%9C%89%E6%B2%89%E9%BB%98",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
+        },
+        {
           "title": "美财长：特朗普明年或两次访华",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%A2%E9%95%BF%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%8E%E5%B9%B4%E6%88%96%E4%B8%A4%E6%AC%A1%E8%AE%BF%E5%8D%8E",
           "source": "百度热搜",
@@ -321,6 +332,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 22时25分]"
+        },
+        {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            25,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 22时25分]"
         },
         {
           "title": "美财长：特朗普明年或将两次访华",
@@ -510,18 +547,6 @@
           "time_info": "[09时45分 ~ 11时17分]"
         },
         {
-          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 21时37分]"
-        },
-        {
           "title": "特朗普：将于明年4月访华",
           "url": "https://www.douyin.com/hot/2316962",
           "source": "抖音",
@@ -546,18 +571,6 @@
           "time_info": "[09时45分 ~ 11时17分]"
         },
         {
-          "title": "特朗普一通电话后 高市早苗只有沉默",
-          "url": "https://www.toutiao.com/trending/7576901878579990070/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 21时37分]"
-        },
-        {
           "title": "特朗普想重启成龙电影尖峰时刻",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E9%87%8D%E5%90%AF%E6%88%90%E9%BE%99%E7%94%B5%E5%BD%B1%E5%B0%96%E5%B3%B0%E6%97%B6%E5%88%BB%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -579,6 +592,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时20分]"
+        },
+        {
+          "title": "特朗普力推,尖峰时刻4要来了?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347542&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8E%A8%2C%E5%B0%96%E5%B3%B0%E6%97%B6%E5%88%BB4%E8%A6%81%E6%9D%A5%E4%BA%86%3F",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
@@ -873,8 +897,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时45分 ~ 21时37分]"
+          "appearance_count": 19,
+          "time_info": "[09时45分 ~ 22时25分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -911,8 +935,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时45分 ~ 21时37分]"
+          "appearance_count": 19,
+          "time_info": "[09时45分 ~ 22时25分]"
         },
         {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
@@ -951,6 +975,19 @@
           "time_info": "[00时31分 ~ 07时21分]"
         },
         {
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时31分 ~ 22时25分]"
+        },
+        {
           "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
           "url": "https://www.cls.cn/detail/2211188",
           "source": "财联社热门",
@@ -965,19 +1002,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[14时35分 ~ 20时49分]"
-        },
-        {
-          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
-          "url": "https://wallstreetcn.com/articles/3760114",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时31分 ~ 21时37分]"
         },
         {
           "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
@@ -1032,6 +1056,17 @@
           "time_info": "[13时22分 ~ 19时20分]"
         },
         {
+          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
+          "url": "https://wallstreetcn.com/articles/3760128",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 22时25分]"
+        },
+        {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
           "url": "https://wallstreetcn.com/livenews/3010363",
           "source": "华尔街见闻-快讯",
@@ -1081,17 +1116,6 @@
           "time_info": "[09时45分 ~ 11时17分]"
         },
         {
-          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
-          "url": "https://wallstreetcn.com/articles/3760128",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 21时37分]"
-        },
-        {
           "title": "英伟达“市值神话”为何被谷歌击穿",
           "url": "https://www.toutiao.com/trending/7576840187636878902/",
           "source": "今日头条",
@@ -1128,6 +1152,18 @@
           "time_info": "[17时27分 ~ 18时27分]"
         },
         {
+          "title": "广联达：CONCETTO智能设计产品已接入谷歌Nano Banana Pro",
+          "url": "https://wallstreetcn.com/livenews/3010908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时25分]"
+        },
+        {
           "title": "Gemini 3 发布是否预示着程序员真正可以被替代？",
           "url": "https://www.zhihu.com/theater/73901?drama_id=1977055301153857730&source=isuda",
           "source": "知乎",
@@ -1160,17 +1196,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
-        },
-        {
-          "title": "广联达：CONCETTO智能设计产品已接入谷歌Nano Banana Pro",
-          "url": "https://wallstreetcn.com/livenews/3010908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
         },
         {
           "title": "谷歌状态页面显示亚洲地区谷歌会议（Google Meet）服务出现问题。",
@@ -1209,7 +1234,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
@@ -1268,6 +1293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3010933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "周二（11月25日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.35%，报87080美元。 CME以太币期货DCR主力合约跌1.38%，报2935.50美元。 美股加密货币与加密货币关联指数涨0.31%，报64.80点，呈现出W形走势。 最近24小时，MarketVector数字资产100小盘指数跌1.48%，暂报18261.32点。",
@@ -1401,7 +1437,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
@@ -1413,8 +1449,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时26分 ~ 21时37分]"
+          "appearance_count": 8,
+          "time_info": "[18时26分 ~ 22时25分]"
         },
         {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
@@ -1434,11 +1470,23 @@
           "url": "https://wallstreetcn.com/articles/3760166",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 21时37分]"
+          "appearance_count": 4,
+          "time_info": "[21时36分 ~ 22时25分]"
+        },
+        {
+          "title": "美股盘前：OpenAI链概念股反弹，甲骨文涨近6%，英伟达涨近2%，CoreWeave涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3010926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "OpenAI预计：到2030年，将至少有2.2亿人付费使用ChatGPT",
