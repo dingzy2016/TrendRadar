@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T13:22:14.235972+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2025-11-29T14:32:26.214472+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -141,6 +141,21 @@
           "time_info": "[03时18分 ~ 07时20分]"
         },
         {
+          "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
+          "url": "https://wallstreetcn.com/livenews/3012411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            15,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 14时32分]"
+        },
+        {
           "title": "据纽约时报：美国总统特朗普上周与委内瑞拉领导人马杜罗通了电话，讨论了会晤事宜。",
           "url": "https://flash.jin10.com/detail/20251129032541398800",
           "source": "金十数据",
@@ -152,20 +167,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时25分 ~ 09时43分]"
-        },
-        {
-          "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
-          "url": "https://wallstreetcn.com/livenews/3012411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时43分 ~ 13时22分]"
         },
         {
           "title": "日本学者点破特朗普真实想法",
@@ -218,6 +219,18 @@
           "time_info": "[09时42分 ~ 11时14分]"
         },
         {
+          "title": "特朗普废除拜登用自动签名笔签的文件",
+          "url": "https://www.toutiao.com/trending/7577899454150279187/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时32分]"
+        },
+        {
           "title": "特朗普：废除拜登用自动签名笔签署的文件",
           "url": "https://news.ifeng.com/c/8ofb4LFJyYg",
           "source": "凤凰网",
@@ -227,17 +240,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时13分 ~ 11时14分]"
-        },
-        {
-          "title": "特朗普废除拜登用自动签名笔签的文件",
-          "url": "https://www.toutiao.com/trending/7577899454150279187/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
           "title": "美媒称特朗普上周与马杜罗通话",
@@ -302,8 +304,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 13时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 14时32分]"
         },
         {
           "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
@@ -316,8 +318,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 13时22分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 14时32分]"
         },
         {
           "title": "美股三大股指收涨 英特尔涨超10%",
@@ -557,22 +559,24 @@
           "ranks": [
             8,
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 13时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 14时32分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
           "url": "https://wallstreetcn.com/articles/3760370",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时32分]"
         }
       ]
     },
@@ -585,11 +589,12 @@
           "url": "https://www.douyin.com/hot/2321048",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时32分]"
         },
         {
           "title": "金价",
@@ -667,8 +672,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 11时14分]"
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 14时32分]"
         }
       ]
     },
