@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T11:25:25.434426+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-12-10T12:35:55.784378+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -38,11 +38,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 11时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 12时35分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -71,6 +72,17 @@
           "time_info": "[00时30分 ~ 07时27分]"
         },
         {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时35分]"
+        },
+        {
           "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
           "url": "https://www.zhihu.com/question/1981659657740234762",
           "source": "知乎",
@@ -83,17 +95,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时23分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时25分]"
         },
         {
           "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
@@ -163,7 +164,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -189,6 +190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
+          "url": "https://flash.jin10.com/detail/20251210121528240800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         },
         {
           "title": "美国总统特朗普：支持奥巴马医保补贴立法草案这个概念。 我喜欢资金流向民众、而不要流向保险行业这个想法。",
@@ -463,6 +475,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "美国企业界对特朗普执政表现评价不高",
+          "url": "https://www.toutiao.com/trending/7581666417361092614/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "英媒：特朗普“施压”泽连斯基几日内回应和平提议 盼圣诞前达成协议",
           "url": "https://flash.jin10.com/detail/20251210022230589800",
           "source": "金十数据",
@@ -472,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
+          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普政府停摆事件对数据有太多的影响。 在正常情况下，政府关门会造成信心崩塌。 总统特朗普会陈述经济的实情。",
@@ -535,8 +569,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 11时25分]"
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 12时35分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）集团数据中心的服务商CyrusOne在（美股）市场开盘之前12个小时（美国中部时间04:19）开始出现故障。 CME数据中心时间线包括秘密递交报告。",
@@ -785,11 +819,12 @@
           "url": "https://wallstreetcn.com/articles/3760995",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时35分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -861,8 +896,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时35分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
@@ -937,6 +972,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时30分 ~ 06时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
+          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         }
       ]
     }
