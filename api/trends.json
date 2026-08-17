@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T12:44:25.899701+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-08-17T20:47:41.539889+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -34,11 +34,12 @@
           "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 20时47分]"
         },
         {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
@@ -332,6 +333,17 @@
           "time_info": "[11时01分 ~ 11时02分]"
         },
         {
+          "title": "特朗普称若阿曼阻碍美方重开霍尔木兹海峡 将对其实施轰炸",
+          "url": "https://wallstreetcn.com/livenews/3150515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "美国总统特朗普表示，他度过了一个“很棒”的周末，进行了“许多会议”。",
           "url": "https://flash.jin10.com/detail/20260817043331858800",
           "source": "金十数据",
@@ -365,15 +377,37 @@
           "time_info": "07时22分"
         },
         {
+          "title": "特朗普要求伊朗举白旗投降",
+          "url": "https://wallstreetcn.com/livenews/3150512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
           "url": "https://www.zhihu.com/question/2072595818725336495",
           "source": "知乎",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "据半岛电视台：哈马斯表示，特朗普的言论确认了他对停火进程的承诺。我们呼吁特朗普总统向以色列政府施压，要求其遵守达成的协议，以实施和平计划的第二阶段。",
+          "url": "https://flash.jin10.com/detail/20260817202651967800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "据半岛电视台：巴勒斯坦消息人士透露，库什纳已告知哈马斯领导层，特朗普认为解除各派武装是加沙采取任何其他行动前的关键一步。",
@@ -431,6 +465,28 @@
           "time_info": "03时23分"
         },
         {
+          "title": "美国一“特朗普周边店”全场5折清仓",
+          "url": "https://www.toutiao.com/trending/7674561854663950342/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "特朗普的委内瑞拉事务特使正在推动“美国优先”石油交易。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3150496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "特朗普称要大幅缩减美韩联合军演",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A6%81%E5%A4%A7%E5%B9%85%E7%BC%A9%E5%87%8F%E7%BE%8E%E9%9F%A9%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -445,7 +501,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗高层换血，革命卫队更强势了？",
@@ -576,6 +632,17 @@
           "time_info": "[00时28分 ~ 06时23分]"
         },
         {
+          "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
+          "url": "https://news.ifeng.com/c/8vfLF9nDBak",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "伊朗第一副总统：物价高涨已达到令人不安的程度，敌人的策略就是利用这一点。",
           "url": "https://flash.jin10.com/detail/20260817010920231800",
           "source": "金十数据",
@@ -686,6 +753,83 @@
           "time_info": "[03时23分 ~ 04时24分]"
         },
         {
+          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
+          "url": "https://wallstreetcn.com/articles/3779592",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "据路透社：伊朗高级官员表示，伊朗设定的时间框架将通过调解人传达给美国及地区国家。伊朗不会无限期等待美国继续实施海上封锁。",
+          "url": "https://flash.jin10.com/detail/20260817202957499800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2072617673721226019",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "伊朗高级官员：已为美国全面履行谅解备忘录设定了数周的最后期限",
+          "url": "https://flash.jin10.com/detail/20260817202839663800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "伊朗高级官员表示：伊朗已决定将其政策从防御性转为“全面进攻性”。 向美国施压或依靠调解人达成持久和平并不现实。 伊朗已为美国全面履行谅解备忘录设定了数周的最后期限。 若外交途径失败，所有伊朗实体将准备在霍尔木兹海峡及该地区升级紧张局势。 伊朗设定的时间表将通过调解人传达给美国及地区各国。 伊朗不会无限期等待美国解除海上封锁。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3150514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "据路透社：伊朗高级官员表示，伊朗已决定将其政策从防御性转变为“全面进攻性”。",
+          "url": "https://flash.jin10.com/detail/20260817202713091800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "美称与伊朗革命卫队有秘密沟通渠道",
+          "url": "https://www.toutiao.com/trending/7674961069491621439/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "伊朗军方：每名入境美军悬赏50亿土曼",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%EF%BC%9A%E6%AF%8F%E5%90%8D%E5%85%A5%E5%A2%83%E7%BE%8E%E5%86%9B%E6%82%AC%E8%B5%8F50%E4%BA%BF%E5%9C%9F%E6%9B%BC",
           "source": "百度热搜",
@@ -743,84 +887,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "DeepSeek正式涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "如何评价 DeepSeek 涨价后，OpenCode Go 套餐的 Flash 模型调用量削减 94%？",
-          "url": "https://www.zhihu.com/question/2072481373085028433",
-          "source": "知乎",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时21分 ~ 11时02分]"
-        },
-        {
-          "title": "DeepSeek调价生效 涨幅最高达1100%",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 12时44分]"
-        },
-        {
-          "title": "DeepSeek正式涨价",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 12时44分]"
-        },
-        {
-          "title": "DeepSeek Harness邪修攻略",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E9%82%AA%E4%BF%AE%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "博主：DeepSeek要当全球Agent的底座",
-          "url": "https://www.toutiao.com/trending/7674830497876282921/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -872,13 +940,46 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
+          "title": "英伟达：累计支付义务上限为1050亿美元。 OpenAI将支付租金。",
+          "url": "https://wallstreetcn.com/livenews/3150527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "OpenAI承诺在2030年前进行大规模的英伟达基础设施部署。",
+          "url": "https://wallstreetcn.com/livenews/3150525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "OpenAI：利用模型帮助保障代码安全。 将模型用于基础设施防御工作。 持续投资于安全架构与管控措施。",
+          "url": "https://wallstreetcn.com/livenews/3150523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
           "url": "https://wallstreetcn.com/articles/3779533",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -889,9 +990,107 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "DeepSeek正式涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "如何评价 DeepSeek 涨价后，OpenCode Go 套餐的 Flash 模型调用量削减 94%？",
+          "url": "https://www.zhihu.com/question/2072481373085028433",
+          "source": "知乎",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 11时02分]"
+        },
+        {
+          "title": "DeepSeek调价生效 涨幅最高达1100%",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时21分 ~ 12时44分]"
+        },
+        {
+          "title": "DeepSeek正式涨价",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时21分 ~ 12时44分]"
+        },
+        {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "DeepSeek Harness邪修攻略",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E9%82%AA%E4%BF%AE%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "博主：DeepSeek要当全球Agent的底座",
+          "url": "https://www.toutiao.com/trending/7674830497876282921/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "Opencode Go 也涨价了，哪里还有便宜 DeepSeek ？",
+          "url": "https://www.zhihu.com/question/2072487733474359004",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         }
       ]
     },
@@ -940,26 +1139,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "美债",
+      "match_count": 2,
       "titles": [
         {
-          "title": "金价大涨藏着什么信号",
-          "url": "https://www.toutiao.com/trending/7674833333351632403/",
-          "source": "今日头条",
+          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
+          "url": "https://wallstreetcn.com/articles/3779560",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
+          "time_info": "20时47分"
+        },
         {
           "title": "媒体人：美债买卖日本救火中国搬家",
           "url": "https://www.toutiao.com/trending/7674607374035848723/",
@@ -973,6 +1166,40 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时21分 ~ 06时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价大涨藏着什么信号",
+          "url": "https://www.toutiao.com/trending/7674833333351632403/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Snap美股盘前跌幅收窄至5%，此前一度跌16%。",
+          "url": "https://wallstreetcn.com/livenews/3150487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         }
       ]
     }
